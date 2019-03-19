@@ -21,3 +21,10 @@ date: YYYY-MM-DD
 * Replace YOUR-TITLE with the title for your blog post
 * Replace YYYY-MM-DD with today's date
 * Commit your changes to your branch
+Step 8: Merge your first post
+Nice work @Love-LG 🎉! Users will be reading your blog in no time!
+
+### 8.⌨️ Activity: Merge your pull request
+* If satisfied with your post, click Merge pull request
+* Click Confirm merge
+* Click Delete branch
