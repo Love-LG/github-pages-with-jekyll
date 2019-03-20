@@ -1,4 +1,7 @@
-# Welcome to my study github blog
+## Welcome to my study github blog
+
+
+[my first blog](https://github.com/Love-LG/github-pages-with-jekyll/blob/master/_posts/2019-03-19-FirstBlog.md)
 
 ### 1.Activity：Turn on Github Pages
 我们要把自己的静态博客发布到web的第一步就是在此仓库上启用GitHub页面，GitHub会自动获取主分支上的内容发布网站
