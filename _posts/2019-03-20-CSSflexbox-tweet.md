@@ -62,8 +62,6 @@ footer .cta button {
   background: transparent;
 }
 ```
-**html**
-
 ```html
 <header>
   <img src="" alt="profile picture" class="profile-thumbnail">
