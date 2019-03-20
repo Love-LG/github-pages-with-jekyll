@@ -63,6 +63,7 @@ footer .cta button {
 }
 ```
 **html**
+
 ```html
 <header>
   <img src="" alt="profile picture" class="profile-thumbnail">
@@ -107,5 +108,4 @@ footer .cta button {
       </button>
     </div>
 </footer>
-
 ```
