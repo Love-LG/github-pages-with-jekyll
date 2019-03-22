@@ -18,7 +18,7 @@ grid-template-columns: auto 50px 10% 2fr 1fr;
 
 ### :keyboard:实列代码
 <details>
-<summary>CSS</summary>
+<summary>CSS + html</summary>
 
 ```css
 .d1{background:LightskyBlue;}
