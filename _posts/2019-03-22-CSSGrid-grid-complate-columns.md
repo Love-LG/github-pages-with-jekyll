@@ -12,9 +12,9 @@ date:  2019-03-22
 ```css
 grid-template-columns: auto 50px 10% 2fr 1fr;
 ```
-<details>
+</details>
   
-上述代码：创建了五列。第一列与其内容一样宽，第二列是50px，第三列是其容器的10％，最后两列; 剩下的空间分为三个部分，两个分配给第四列，一个分配给第五个。
+> 上述代码：创建了五列。第一列与其内容一样宽，第二列是50px，第三列是其容器的10％，最后两列; 剩下的空间分为三个部分，两个分配给第四列，一个分配给第五个。
 
 ### :keyboard:实列代码
 <details>
@@ -47,4 +47,4 @@ grid-template-columns: auto 50px 10% 2fr 1fr;
   <div class="d5">5</div>
 </div>
 ```
-<details>
+</details>
