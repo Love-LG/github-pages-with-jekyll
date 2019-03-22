@@ -36,7 +36,6 @@ grid-template-columns: auto 50px 10% 2fr 1fr;
   grid-template-rows: 50px 50px;
 }
 ```
-<summary>Html</summary>
 
 ```html
 <div class="container">
