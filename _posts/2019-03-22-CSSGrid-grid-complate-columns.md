@@ -6,19 +6,14 @@ date:  2019-03-22
 * `fr`将行或者列设置为可用空间的一小部分
 * `auto`自动将行或者列设置为其内容的宽度或者高度
 * `%`将行或者列调整为其容器的百分比宽度
-<details>
-<summary>:computer_mouse:Example</summary>
 
 ```css
 grid-template-columns: auto 50px 10% 2fr 1fr;
 ```
-</details>
   
 > 上述代码：创建了五列。第一列与其内容一样宽，第二列是50px，第三列是其容器的10％，最后两列; 剩下的空间分为三个部分，两个分配给第四列，一个分配给第五个。
 
-### :keyboard:实列代码
-<details>
-<summary>CSS + html</summary>
+### 实列代码
 
 ```css
 .d1{background:LightskyBlue;}
@@ -46,4 +41,4 @@ grid-template-columns: auto 50px 10% 2fr 1fr;
   <div class="d5">5</div>
 </div>
 ```
-</details>
+
