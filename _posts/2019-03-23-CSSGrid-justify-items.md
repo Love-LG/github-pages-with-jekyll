@@ -8,6 +8,11 @@ justify-items: center;
 ```
 > 上述代码可以让所有item水平居中
 
+```bash
+align-items: center;
+```
+>上面代码可以让所有item垂直居中
+
 ### Example:
 ```css
 .item1{background:LightskyBlue;}
