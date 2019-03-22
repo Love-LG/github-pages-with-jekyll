@@ -7,7 +7,10 @@ date: 2019-03-23
 grid-row-gap: 5px;
 ```
 > 上面代码表示为每一行建立间隙为5px
-
+```bash
+grid-gap: 5px 10px;
+```
+> 可以使用 `grid-gap` 直接添加行和列之间的间隙
 ## Example：
 ```css
 .d1{background:LightskyBlue;}
