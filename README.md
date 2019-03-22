@@ -4,6 +4,10 @@ Welcome to **my** repository from GitHub Learning Lab course. This repository wi
 
 ![issue tab](https://lab.github.com/public/images/issue_tab.png)
 
-I'll meet you over there, can't wait to get started!
+:house:List | :clock1:finish/on
+------------ | -------------
+CSS Flex | Finish :heavy_check_mark:
+CSS Grid | finish :heavy_check_mark:
 
-[点击这里查看我的博客！](https://love-lg.github.io/github-pages-with-jekyll/)
+
+:rocket:[我的博客！](https://love-lg.github.io/github-pages-with-jekyll/)
