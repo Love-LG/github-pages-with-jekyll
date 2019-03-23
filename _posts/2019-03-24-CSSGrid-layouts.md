@@ -4,8 +4,7 @@ date: 2019-03-24
 ---
 ### 通过使用媒体查询重新排列网格区域，更改网格的尺寸以及重新排列项目的位置，CSS网格可以轻松地使网站更具响应性。
 
-#### Eg:下面的列子当视口宽度小于300px时将显示header advert content footer四行一列，当视口宽度大于等于300px时变成两列左侧为advert右侧为三行分别是headr content footer
-当视口宽度大于等于400px时将变成三行分别是header content footer但是content左侧是advert右侧是content
+#### Eg:下面的列子当视口宽度小于300px时将显示header advert content footer四行一列，当视口宽度大于等于300px时变成两列左侧为advert右侧为三行分别是headr content footer当视口宽度大于等于400px时将变成三行分别是header content footer但是content左侧是advert右侧是content
 ```css
 .item1{
   background:LightskyBlue;
