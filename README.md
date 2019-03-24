@@ -31,16 +31,17 @@ CSS Grid | finish :heavy_check_mark:
   
   2.Basic Javascript(使用赋值运算符存储值)
   在JavaScript中我们可以使用赋值运算符将值存储在变量中
+  
   <details>
   <summary>:keyboard:Example</summary>
-    
-    ```js
-    var a;
-    var b = 2;
-    a = 7;
-    var b = a;
-    alert(b)    //7
-    ```
+   
+   ```js
+   var a;
+   var b = 2;
+   a = 7;
+   var b = a;
+   alert(b);    //7
+   ```
   </details>
   
   3.Basic Javascript(关于未初始化的变量)
